@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Container, Row, Col, Card } from "react-bootstrap";
 import pokemons from "./pokemons.js";
 
 function App() {
@@ -8,16 +7,13 @@ function App() {
     const [searchText, setSearchText] = useState("");
     const [data, setData] = useState(dataList);
 
-    // exclude column list from filter
     const excludeColumns = ["color"];
 
-    // handle change event of search input
     const handleChange = value => {
         setSearchText(value);
         filterData(value);
     };
 
-    // filter records by search text
     const filterData = value => {
         const lowercasedValue = value.toLowerCase().trim();
         if (lowercasedValue === "") setData(dataList);
@@ -38,35 +34,39 @@ function App() {
 
     return (
         <div className="App">
-            <Container>
-                Search:{" "}
-                <input
-                    style={{ marginLeft: 5 }}
-                    type="text"
-                    placeholder="Type to search..."
-                    value={searchText}
-                    onChange={e => handleChange(e.target.value)}
-                />
-                <div>
-                    <Row>
-                        {data.map((d, i) => {
-                            return (
-                                <Col key={i} xs={12} sm={6} md={4} lg={3} className="item">
-                                    <b>Name: </b>
-                                    {d.name}
-                                    <br />
-                                    <b>Type: </b>
-                                    {d.type[0]} / {d.type[1]}
-                                    <br />
-                                    <img src={d.image} alt={d.name} />
-                                </Col>
-                            );
-                        })}
-                        <div className="clearboth" />
-                        {data.length === 0 && <span>No records found to display!</span>}
-                    </Row>
+            <div className="container">
+                <h1>React Pokedex</h1>
+                <div className="search">
+                    <div className="form-inline d-flex justify-content-center">
+                        Filter:{" "}
+                        <input
+                            style={{ marginLeft: 5 }}
+                            type="text"
+                            placeholder="Type to search..."
+                            value={searchText}
+                            onChange={e => handleChange(e.target.value)}
+                            className="form-control"
+                        />
+                    </div>
                 </div>
-            </Container>
+
+                <div className="grid">
+                    {data.map((d, i) => {
+                        return (
+                            <div key={d.id} className={"item " + d.type[0]}>
+                                <b>{d.name}</b>
+                                <br />
+                                Type: <b>{d.type[0]}
+                                    {d.type[1] != null && ' / ' + d.type[1]}</b>
+                                <br />
+                                <img src={d.image} alt={d.name} />
+                            </div>
+                        );
+                    })}
+                </div>
+
+                {data.length === 0 && <p>No records found to display!</p>}
+            </div>
         </div>
     );
 }

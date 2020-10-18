@@ -11,7 +11,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png"
     },
     {
         id: 2,
@@ -25,7 +25,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/ivysaur.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/ivysaur.png"
     },
     {
         id: 3,
@@ -39,7 +39,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/venusaur-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/venusaur-f.png"
     },
     {
         id: 4,
@@ -53,7 +53,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/charmander.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/charmander.png"
     },
     {
         id: 5,
@@ -67,7 +67,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/charmeleon.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/charmeleon.png"
     },
     {
         id: 6,
@@ -81,7 +81,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/charizard.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/charizard.png"
     },
     {
         id: 7,
@@ -95,7 +95,7 @@ const pokemons = [
             "Sp. Defense": 64,
             Speed: 43
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/squirtle.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/squirtle.png"
     },
     {
         id: 8,
@@ -109,7 +109,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 58
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/wartortle.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/wartortle.png"
     },
     {
         id: 9,
@@ -123,7 +123,7 @@ const pokemons = [
             "Sp. Defense": 105,
             Speed: 78
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/blastoise.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/blastoise.png"
     },
     {
         id: 10,
@@ -137,7 +137,7 @@ const pokemons = [
             "Sp. Defense": 20,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/caterpie.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/caterpie.png"
     },
     {
         id: 11,
@@ -151,7 +151,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/metapod.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/metapod.png"
     },
     {
         id: 12,
@@ -166,7 +166,7 @@ const pokemons = [
             Speed: 70
         },
         image:
-            "https://img.pokemondb.net/sprites/black-white/normal/butterfree-f.png"
+            "https://img.pokemondb.net/sprites/home/normal/butterfree-f.png"
     },
     {
         id: 13,
@@ -180,7 +180,7 @@ const pokemons = [
             "Sp. Defense": 20,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/weedle.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/weedle.png"
     },
     {
         id: 14,
@@ -194,7 +194,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kakuna.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kakuna.png"
     },
     {
         id: 15,
@@ -208,7 +208,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 75
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/beedrill.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/beedrill.png"
     },
     {
         id: 16,
@@ -222,7 +222,7 @@ const pokemons = [
             "Sp. Defense": 35,
             Speed: 56
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/pidgey.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/pidgey.png"
     },
     {
         id: 17,
@@ -236,7 +236,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 71
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/pidgeotto.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/pidgeotto.png"
     },
     {
         id: 18,
@@ -250,7 +250,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 101
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/pidgeot.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/pidgeot.png"
     },
     {
         id: 19,
@@ -264,7 +264,7 @@ const pokemons = [
             "Sp. Defense": 35,
             Speed: 72
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/rattata-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/rattata-f.png"
     },
     {
         id: 20,
@@ -278,7 +278,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 97
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/raticate-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/raticate-f.png"
     },
     {
         id: 21,
@@ -292,7 +292,7 @@ const pokemons = [
             "Sp. Defense": 31,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/spearow.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/spearow.png"
     },
     {
         id: 22,
@@ -306,7 +306,7 @@ const pokemons = [
             "Sp. Defense": 61,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/fearow.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/fearow.png"
     },
     {
         id: 23,
@@ -320,7 +320,7 @@ const pokemons = [
             "Sp. Defense": 54,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/ekans.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/ekans.png"
     },
     {
         id: 24,
@@ -334,7 +334,7 @@ const pokemons = [
             "Sp. Defense": 79,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/arbok.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/arbok.png"
     },
     {
         id: 25,
@@ -348,7 +348,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/pikachu-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/pikachu-f.png"
     },
     {
         id: 26,
@@ -362,7 +362,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 110
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/raichu-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/raichu-f.png"
     },
     {
         id: 27,
@@ -376,7 +376,7 @@ const pokemons = [
             "Sp. Defense": 30,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/sandshrew.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/sandshrew.png"
     },
     {
         id: 28,
@@ -390,7 +390,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/sandslash.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/sandslash.png"
     },
     {
         id: 29,
@@ -404,7 +404,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 41
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidoran-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidoran-f.png"
     },
     {
         id: 30,
@@ -418,7 +418,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 56
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidorina.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidorina.png"
     },
     {
         id: 31,
@@ -432,7 +432,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 76
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidoqueen.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidoqueen.png"
     },
     {
         id: 32,
@@ -446,7 +446,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidoran-m.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidoran-m.png"
     },
     {
         id: 33,
@@ -460,7 +460,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidorino.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidorino.png"
     },
     {
         id: 34,
@@ -474,7 +474,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/nidoking.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/nidoking.png"
     },
     {
         id: 35,
@@ -488,7 +488,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/clefairy.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/clefairy.png"
     },
     {
         id: 36,
@@ -502,7 +502,7 @@ const pokemons = [
             "Sp. Defense": 90,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/clefable.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/clefable.png"
     },
     {
         id: 37,
@@ -516,7 +516,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/vulpix.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/vulpix.png"
     },
     {
         id: 38,
@@ -530,7 +530,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/ninetales.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/ninetales.png"
     },
     {
         id: 39,
@@ -544,7 +544,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 20
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/jigglypuff.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png"
     },
     {
         id: 40,
@@ -558,7 +558,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/wigglytuff.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/wigglytuff.png"
     },
     {
         id: 41,
@@ -572,7 +572,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/zubat-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/zubat-f.png"
     },
     {
         id: 42,
@@ -586,7 +586,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/golbat-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/golbat-f.png"
     },
     {
         id: 43,
@@ -600,7 +600,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/oddish.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/oddish.png"
     },
     {
         id: 44,
@@ -614,7 +614,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/gloom-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/gloom-f.png"
     },
     {
         id: 45,
@@ -629,7 +629,7 @@ const pokemons = [
             Speed: 50
         },
         image:
-            "https://img.pokemondb.net/sprites/black-white/normal/vileplume-f.png"
+            "https://img.pokemondb.net/sprites/home/normal/vileplume-f.png"
     },
     {
         id: 46,
@@ -643,7 +643,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 25
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/paras.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/paras.png"
     },
     {
         id: 47,
@@ -657,7 +657,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/parasect.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/parasect.png"
     },
     {
         id: 48,
@@ -671,7 +671,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/venonat.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/venonat.png"
     },
     {
         id: 49,
@@ -685,7 +685,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/venomoth.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/venomoth.png"
     },
     {
         id: 50,
@@ -699,7 +699,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 95
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/diglett.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/diglett.png"
     },
     {
         id: 51,
@@ -713,7 +713,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 120
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dugtrio.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dugtrio.png"
     },
     {
         id: 52,
@@ -727,7 +727,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/meowth.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/meowth.png"
     },
     {
         id: 53,
@@ -741,7 +741,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 115
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/persian.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/persian.png"
     },
     {
         id: 54,
@@ -755,7 +755,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/psyduck.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/psyduck.png"
     },
     {
         id: 55,
@@ -769,7 +769,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/golduck.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/golduck.png"
     },
     {
         id: 56,
@@ -783,7 +783,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/mankey.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/mankey.png"
     },
     {
         id: 57,
@@ -797,7 +797,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 95
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/primeape.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/primeape.png"
     },
     {
         id: 58,
@@ -811,7 +811,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/growlithe.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/growlithe.png"
     },
     {
         id: 59,
@@ -825,7 +825,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 95
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/arcanine.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/arcanine.png"
     },
     {
         id: 60,
@@ -839,7 +839,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/poliwag.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/poliwag.png"
     },
     {
         id: 61,
@@ -853,7 +853,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/poliwhirl.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/poliwhirl.png"
     },
     {
         id: 62,
@@ -867,7 +867,7 @@ const pokemons = [
             "Sp. Defense": 90,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/poliwrath.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/poliwrath.png"
     },
     {
         id: 63,
@@ -881,7 +881,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/abra.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/abra.png"
     },
     {
         id: 64,
@@ -895,7 +895,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 105
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kadabra-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kadabra-f.png"
     },
     {
         id: 65,
@@ -909,7 +909,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 120
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/alakazam-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/alakazam-f.png"
     },
     {
         id: 66,
@@ -923,7 +923,7 @@ const pokemons = [
             "Sp. Defense": 35,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/machop.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/machop.png"
     },
     {
         id: 67,
@@ -937,7 +937,7 @@ const pokemons = [
             "Sp. Defense": 60,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/machoke.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/machoke.png"
     },
     {
         id: 68,
@@ -951,7 +951,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/machamp.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/machamp.png"
     },
     {
         id: 69,
@@ -965,7 +965,7 @@ const pokemons = [
             "Sp. Defense": 30,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/bellsprout.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/bellsprout.png"
     },
     {
         id: 70,
@@ -979,7 +979,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/weepinbell.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/weepinbell.png"
     },
     {
         id: 71,
@@ -993,7 +993,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/victreebel.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/victreebel.png"
     },
     {
         id: 72,
@@ -1007,7 +1007,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/tentacool.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/tentacool.png"
     },
     {
         id: 73,
@@ -1021,7 +1021,7 @@ const pokemons = [
             "Sp. Defense": 120,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/tentacruel.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/tentacruel.png"
     },
     {
         id: 74,
@@ -1035,7 +1035,7 @@ const pokemons = [
             "Sp. Defense": 30,
             Speed: 20
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/geodude.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/geodude.png"
     },
     {
         id: 75,
@@ -1049,7 +1049,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/graveler.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/graveler.png"
     },
     {
         id: 76,
@@ -1063,7 +1063,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/golem.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/golem.png"
     },
     {
         id: 77,
@@ -1077,7 +1077,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/ponyta.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/ponyta.png"
     },
     {
         id: 78,
@@ -1091,7 +1091,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 105
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/rapidash.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/rapidash.png"
     },
     {
         id: 79,
@@ -1105,7 +1105,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 15
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/slowpoke.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/slowpoke.png"
     },
     {
         id: 80,
@@ -1119,7 +1119,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/slowbro.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/slowbro.png"
     },
     {
         id: 81,
@@ -1133,7 +1133,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/magnemite.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/magnemite.png"
     },
     {
         id: 82,
@@ -1147,7 +1147,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/magneton.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/magneton.png"
     },
     {
         id: 83,
@@ -1161,7 +1161,7 @@ const pokemons = [
             "Sp. Defense": 62,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/farfetchd.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/farfetchd.png"
     },
     {
         id: 84,
@@ -1175,7 +1175,7 @@ const pokemons = [
             "Sp. Defense": 35,
             Speed: 75
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/doduo-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/doduo-f.png"
     },
     {
         id: 85,
@@ -1189,7 +1189,7 @@ const pokemons = [
             "Sp. Defense": 60,
             Speed: 110
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dodrio-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dodrio-f.png"
     },
     {
         id: 86,
@@ -1203,7 +1203,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/seel.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/seel.png"
     },
     {
         id: 87,
@@ -1217,7 +1217,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dewgong.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dewgong.png"
     },
     {
         id: 88,
@@ -1231,7 +1231,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 25
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/grimer.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/grimer.png"
     },
     {
         id: 89,
@@ -1245,7 +1245,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/muk.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/muk.png"
     },
     {
         id: 90,
@@ -1259,7 +1259,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/shellder.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/shellder.png"
     },
     {
         id: 91,
@@ -1273,7 +1273,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/cloyster.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/cloyster.png"
     },
     {
         id: 92,
@@ -1287,7 +1287,7 @@ const pokemons = [
             "Sp. Defense": 35,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/gastly.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/gastly.png"
     },
     {
         id: 93,
@@ -1301,7 +1301,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 95
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/haunter.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/haunter.png"
     },
     {
         id: 94,
@@ -1315,7 +1315,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 110
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/gengar.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/gengar.png"
     },
     {
         id: 95,
@@ -1329,7 +1329,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/onix.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/onix.png"
     },
     {
         id: 96,
@@ -1343,7 +1343,7 @@ const pokemons = [
             "Sp. Defense": 90,
             Speed: 42
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/drowzee.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/drowzee.png"
     },
     {
         id: 97,
@@ -1357,7 +1357,7 @@ const pokemons = [
             "Sp. Defense": 115,
             Speed: 67
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/hypno-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/hypno-f.png"
     },
     {
         id: 98,
@@ -1371,7 +1371,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/krabby.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/krabby.png"
     },
     {
         id: 99,
@@ -1385,7 +1385,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 75
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kingler.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kingler.png"
     },
     {
         id: 100,
@@ -1399,7 +1399,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/voltorb.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/voltorb.png"
     },
     {
         id: 101,
@@ -1413,7 +1413,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 150
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/electrode.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/electrode.png"
     },
     {
         id: 102,
@@ -1427,7 +1427,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/exeggcute.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/exeggcute.png"
     },
     {
         id: 103,
@@ -1441,7 +1441,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/exeggutor.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/exeggutor.png"
     },
     {
         id: 104,
@@ -1455,7 +1455,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/cubone.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/cubone.png"
     },
     {
         id: 105,
@@ -1469,7 +1469,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 45
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/marowak.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/marowak.png"
     },
     {
         id: 106,
@@ -1483,7 +1483,7 @@ const pokemons = [
             "Sp. Defense": 110,
             Speed: 87
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/hitmonlee.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/hitmonlee.png"
     },
     {
         id: 107,
@@ -1497,7 +1497,7 @@ const pokemons = [
             "Sp. Defense": 110,
             Speed: 76
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/hitmonchan.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/hitmonchan.png"
     },
     {
         id: 108,
@@ -1511,7 +1511,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/lickitung.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/lickitung.png"
     },
     {
         id: 109,
@@ -1525,7 +1525,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/koffing.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/koffing.png"
     },
     {
         id: 110,
@@ -1539,7 +1539,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/weezing.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/weezing.png"
     },
     {
         id: 111,
@@ -1553,7 +1553,7 @@ const pokemons = [
             "Sp. Defense": 30,
             Speed: 25
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/rhyhorn-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/rhyhorn-f.png"
     },
     {
         id: 112,
@@ -1567,7 +1567,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/rhydon-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/rhydon-f.png"
     },
     {
         id: 113,
@@ -1581,7 +1581,7 @@ const pokemons = [
             "Sp. Defense": 105,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/chansey.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/chansey.png"
     },
     {
         id: 114,
@@ -1595,7 +1595,7 @@ const pokemons = [
             "Sp. Defense": 40,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/tangela.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/tangela.png"
     },
     {
         id: 115,
@@ -1609,7 +1609,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kangaskhan.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kangaskhan.png"
     },
     {
         id: 116,
@@ -1623,7 +1623,7 @@ const pokemons = [
             "Sp. Defense": 25,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/horsea.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/horsea.png"
     },
     {
         id: 117,
@@ -1637,7 +1637,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/seadra.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/seadra.png"
     },
     {
         id: 118,
@@ -1651,7 +1651,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 63
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/goldeen-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/goldeen-f.png"
     },
     {
         id: 119,
@@ -1665,7 +1665,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 68
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/seaking-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/seaking-f.png"
     },
     {
         id: 120,
@@ -1679,7 +1679,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/staryu.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/staryu.png"
     },
     {
         id: 121,
@@ -1693,7 +1693,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 115
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/starmie.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/starmie.png"
     },
     {
         id: 122,
@@ -1707,7 +1707,7 @@ const pokemons = [
             "Sp. Defense": 120,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/mr-mime.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/mr-mime.png"
     },
     {
         id: 123,
@@ -1721,7 +1721,7 @@ const pokemons = [
             "Sp. Defense": 80,
             Speed: 105
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/scyther-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/scyther-f.png"
     },
     {
         id: 124,
@@ -1735,7 +1735,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 95
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/jynx.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/jynx.png"
     },
     {
         id: 125,
@@ -1749,7 +1749,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 105
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/electabuzz.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/electabuzz.png"
     },
     {
         id: 126,
@@ -1763,7 +1763,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 93
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/magmar.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/magmar.png"
     },
     {
         id: 127,
@@ -1777,7 +1777,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/pinsir.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/pinsir.png"
     },
     {
         id: 128,
@@ -1791,7 +1791,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 110
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/tauros.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/tauros.png"
     },
     {
         id: 129,
@@ -1805,7 +1805,7 @@ const pokemons = [
             "Sp. Defense": 20,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/magikarp-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/magikarp-f.png"
     },
     {
         id: 130,
@@ -1819,7 +1819,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 81
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/gyarados-f.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/gyarados-f.png"
     },
     {
         id: 131,
@@ -1833,7 +1833,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 60
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/lapras.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/lapras.png"
     },
     {
         id: 132,
@@ -1847,7 +1847,7 @@ const pokemons = [
             "Sp. Defense": 48,
             Speed: 48
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/ditto.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/ditto.png"
     },
     {
         id: 133,
@@ -1861,7 +1861,7 @@ const pokemons = [
             "Sp. Defense": 65,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/eevee.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/eevee.png"
     },
     {
         id: 134,
@@ -1875,7 +1875,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/vaporeon.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/vaporeon.png"
     },
     {
         id: 135,
@@ -1889,7 +1889,7 @@ const pokemons = [
             "Sp. Defense": 95,
             Speed: 130
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/jolteon.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/jolteon.png"
     },
     {
         id: 136,
@@ -1903,7 +1903,7 @@ const pokemons = [
             "Sp. Defense": 110,
             Speed: 65
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/flareon.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/flareon.png"
     },
     {
         id: 137,
@@ -1917,7 +1917,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 40
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/porygon.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/porygon.png"
     },
     {
         id: 138,
@@ -1931,7 +1931,7 @@ const pokemons = [
             "Sp. Defense": 55,
             Speed: 35
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/omanyte.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/omanyte.png"
     },
     {
         id: 139,
@@ -1945,7 +1945,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/omastar.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/omastar.png"
     },
     {
         id: 140,
@@ -1959,7 +1959,7 @@ const pokemons = [
             "Sp. Defense": 45,
             Speed: 55
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kabuto.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kabuto.png"
     },
     {
         id: 141,
@@ -1973,7 +1973,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/kabutops.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/kabutops.png"
     },
     {
         id: 142,
@@ -1987,7 +1987,7 @@ const pokemons = [
             "Sp. Defense": 75,
             Speed: 130
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/aerodactyl.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/aerodactyl.png"
     },
     {
         id: 143,
@@ -2001,7 +2001,7 @@ const pokemons = [
             "Sp. Defense": 110,
             Speed: 30
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/snorlax.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/snorlax.png"
     },
     {
         id: 144,
@@ -2015,7 +2015,7 @@ const pokemons = [
             "Sp. Defense": 125,
             Speed: 85
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/articuno.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/articuno.png"
     },
     {
         id: 145,
@@ -2029,7 +2029,7 @@ const pokemons = [
             "Sp. Defense": 90,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/zapdos.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/zapdos.png"
     },
     {
         id: 146,
@@ -2043,7 +2043,7 @@ const pokemons = [
             "Sp. Defense": 85,
             Speed: 90
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/moltres.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/moltres.png"
     },
     {
         id: 147,
@@ -2057,7 +2057,7 @@ const pokemons = [
             "Sp. Defense": 50,
             Speed: 50
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dratini.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dratini.png"
     },
     {
         id: 148,
@@ -2071,7 +2071,7 @@ const pokemons = [
             "Sp. Defense": 70,
             Speed: 70
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dragonair.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dragonair.png"
     },
     {
         id: 149,
@@ -2085,7 +2085,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 80
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/dragonite.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/dragonite.png"
     },
     {
         id: 150,
@@ -2099,7 +2099,7 @@ const pokemons = [
             "Sp. Defense": 90,
             Speed: 130
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/mewtwo.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/mewtwo.png"
     },
     {
         id: 151,
@@ -2113,7 +2113,7 @@ const pokemons = [
             "Sp. Defense": 100,
             Speed: 100
         },
-        image: "https://img.pokemondb.net/sprites/black-white/normal/mew.png"
+        image: "https://img.pokemondb.net/sprites/home/normal/mew.png"
     }
 ];
 
