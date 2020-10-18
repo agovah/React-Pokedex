@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pokedex app built with React.
+
+## Demo
+
+https://agovah.github.io/react-pokedex-demo/
+
+## Usage
+
+```
+$ git clone https://github.com/agovah/React-Pokedex.git
+$ cd React-Pokedex-master
+$ npm install
+$ npm start
+```
 
 ## Available Scripts
 
