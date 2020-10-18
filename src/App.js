@@ -38,11 +38,10 @@ function App() {
                 <h1>React Pokedex</h1>
                 <div className="search">
                     <div className="form-inline d-flex justify-content-center">
-                        Filter:{" "}
                         <input
                             style={{ marginLeft: 5 }}
                             type="text"
-                            placeholder="Type to search..."
+                            placeholder="Search..."
                             value={searchText}
                             onChange={e => handleChange(e.target.value)}
                             className="form-control"
@@ -56,8 +55,7 @@ function App() {
                             <div key={d.id} className={"item " + d.type[0]}>
                                 <b>{d.name}</b>
                                 <br />
-                                Type: <b>{d.type[0]}
-                                    {d.type[1] != null && ' / ' + d.type[1]}</b>
+                                Type : {d.type[0]}{d.type[1] != null && ' / ' + d.type[1]}
                                 <br />
                                 <img src={d.image} alt={d.name} />
                             </div>
